@@ -20,7 +20,7 @@ Q4) Name three types of express middle-wares.
 1-Built-in middleware  2- Router-level middleware  3-Application-level middleware
 
 Q5) What is the `effect` hook used for in react?
-``
+`` useEffect is function have to parametr first one is function and second is array
 
 Q6) What is the `state` hook used for in react?
 
