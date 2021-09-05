@@ -23,7 +23,7 @@ Q5) What is the `effect` hook used for in react?
 `` useEffect is function have to parametr first one is function and second is array
 
 Q6) What is the `state` hook used for in react?
-
+state hooks enabel us to create variable and function and send there value to other childe or component const [x,setX]=useState()
 
 Q7) List three thing you can use to create a responsive web application.
 
