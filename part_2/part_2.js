@@ -9,9 +9,10 @@ database enable us to store data and save it from lost and by using database we 
 
 Q2) What are JWTs used for?.
 
-
+by using jsonwebtoken we can generate token and send hashed data
 
 Q3) What are the main three sections of a JWT?
+
 
 
 Q4) Name three types of express middle-wares.
