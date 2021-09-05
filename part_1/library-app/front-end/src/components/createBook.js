@@ -14,3 +14,5 @@ const createBook=()=>{
         </div>
     )
 }
+
+export default createBook;
