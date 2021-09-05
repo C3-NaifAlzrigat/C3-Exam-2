@@ -40,5 +40,5 @@ authentication: check if the user is vaild by check some information
 authorization:check if the authentic user has a permission to do this action
 
 Q10) Why do we save some information as an environment variable (in .env file)?
-
+        these iformation is secret if anyone not authorized access to thes information it posible to stole the data
 */
