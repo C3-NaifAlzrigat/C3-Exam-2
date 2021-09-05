@@ -17,6 +17,7 @@ Q3) What are the main three sections of a JWT?
 
 Q4) Name three types of express middle-wares.
 
+1-Built-in middleware  2- Router-level middleware  3-Application-level middleware
 
 Q5) What is the `effect` hook used for in react?
 ``
