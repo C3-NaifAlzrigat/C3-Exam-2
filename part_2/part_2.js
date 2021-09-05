@@ -31,7 +31,8 @@ Q7) List three thing you can use to create a responsive web application.
 
 Q8) Name two of mongoose middle-wares and explain what they are used for.
 
-
+1-pre :used to apply some changes befor doing the action like save
+2-post :used to apply some changes after doing the action like save
 
 Q9) What is the difference between authentication and authorization?
 
