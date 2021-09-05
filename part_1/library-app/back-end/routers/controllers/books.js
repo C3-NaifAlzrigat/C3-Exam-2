@@ -30,6 +30,14 @@ const getBookById=(req,res)=>{
     .then(response=>res.json(response))
     .catch(err=>res.json(err))
 }
+
+const deleteBookById=(req,res)=>{
+    const book_id=req.params.book_id;
+    Book.findByIdAndDelete({_id:book_id})
+    .then(response=>res.json(response))
+    .catch(err=>res.json(err))
+}
 module.exports={insertBook
                 ,getAllBooks,
-                getBookById}
+                getBookById,
+                deleteBookById}
