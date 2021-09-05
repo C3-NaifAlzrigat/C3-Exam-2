@@ -27,8 +27,10 @@ state hooks enabel us to create variable and function and send there value to ot
 
 Q7) List three thing you can use to create a responsive web application.
 
+1-media-query   2- grid-system    3-flex_box system
 
 Q8) Name two of mongoose middle-wares and explain what they are used for.
+
 
 
 Q9) What is the difference between authentication and authorization?
