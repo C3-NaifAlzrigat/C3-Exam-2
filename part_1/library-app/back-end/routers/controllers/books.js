@@ -24,4 +24,12 @@ const getAllBooks=(req,res)=>{
     .catch(err=>res.json(err))
 }
 
-module.exports={insertBook,getAllBooks}
+const getBookById=(req,res)=>{
+    const book_id=req.params.book_id;
+    Book.findById({_id:book_id})
+    .then(response=>res.json(response))
+    .catch(err=>res.json(err))
+}
+module.exports={insertBook
+                ,getAllBooks,
+                getBookById}
