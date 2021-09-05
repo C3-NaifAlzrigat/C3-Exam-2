@@ -13,7 +13,7 @@ by using jsonwebtoken we can generate token and send hashed data
 
 Q3) What are the main three sections of a JWT?
 
-
+1- Headers   2- payload 3- signiture
 
 Q4) Name three types of express middle-wares.
 
