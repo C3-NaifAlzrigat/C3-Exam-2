@@ -5,9 +5,10 @@ PART 3 [General Information]:
 Type the correct answer below each question:
 
 Q1) Why do we use databases?
-
+database enable us to store data and save it from lost and by using database we can analyze and enteract with this data
 
 Q2) What are JWTs used for?.
+
 
 
 Q3) What are the main three sections of a JWT?
