@@ -18,6 +18,10 @@ const insertBook=(req,res)=>{
 }
 
 
+const getAllBooks=(req,res)=>{
+    Book.find({})
+    .then(response=>res.json(response))
+    .catch(err=>res.json(err))
+}
 
-
-module.exports={insertBook}
+module.exports={insertBook,getAllBooks}
